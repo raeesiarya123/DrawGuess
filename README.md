@@ -1,1 +1,3 @@
-# TDT4240
+# DrawGuess - TDT4240
+
+Work in progress.
