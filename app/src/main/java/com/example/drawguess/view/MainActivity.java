@@ -1,10 +1,11 @@
-package com.example.drawguess;
+package com.example.drawguess.view;
 
 import android.os.Bundle;
 import android.util.Log;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.drawguess.R;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.analytics.FirebaseAnalytics;
 
