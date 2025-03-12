@@ -7,6 +7,16 @@ import io.github.drawguess.model.GameSession;
 @ViewActionContainer("game")
 public class GameController {
     private GameSession gameSession;
-    
-    // Methods for game logic
+
+    public void startGame() {
+        // Start a new game session
+    }
+
+    public void processGuess(String guess) {
+        // Handle guess processing
+    }
+
+    public void updateModel() {
+        // Update game state/model
+    }
 } 
