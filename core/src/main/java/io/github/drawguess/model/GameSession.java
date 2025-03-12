@@ -31,6 +31,10 @@ public class GameSession {
         this.currentState = newState;
         this.currentState.enterState();
     }
+
+    public int getSessionID(){
+        return sessionID;
+    }
     
     public List<Player> getPlayers() {
         return players;
