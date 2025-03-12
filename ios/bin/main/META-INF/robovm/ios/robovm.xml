@@ -1,0 +1,6 @@
+<config>
+  <forceLinkClasses>
+
+    <pattern>io.github.drawguess.DrawGuessMain</pattern>
+  </forceLinkClasses>
+</config>
